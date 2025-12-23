@@ -28,3 +28,8 @@ Many well organized notes and cheating papers [here](https://github.com/Wendy-Yi
   * CS303 Artificial Intelligence: [lab](https://github.com/Wendy-Ying/Artifical-Intelligence), [project1](https://github.com/Wendy-Ying/Reversed-Reversi), [project2](https://github.com/Wendy-Ying/Adult-Census-Income-Prediction)
  
 ## 💻 **Research Project**:
+* [MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints](https://arxiv.org/abs/2511.17013)
+* [Fully Automated, Highly Compatible Detection Combat Investigated UAV](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
+* Universal Delivery Robot
+* Point Cloud World Model-Powered Dynamic Navigation System
+* [Sign Language Translation System](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
