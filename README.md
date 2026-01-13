@@ -13,6 +13,7 @@ Many well organized notes and cheating papers [here](https://github.com/Wendy-Yi
   * EE206 Communication Principles: [lab](https://github.com/Wendy-Ying/Communication-Principles-Lab)
   * EE208 Engineering Electromagnetics: [lab](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab)
   * CS203B Data Structures and Algorithm Analysis B: [lab](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B-Lab), [project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm)
+  * EE318 Advanced Electronic Science Experiment: [project](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
 * 2024 Fall
   * EE315 Data Communications and Networking: [lab](https://github.com/Wendy-Ying/Data-Communications-and-Networking-Lab), [project](https://github.com/Wendy-Ying/Minimum-Sim-LAN)
   * EE323 Digital Signal Processing: [lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab), [project](https://github.com/Wendy-Ying/Computer-Generate-Music)
@@ -26,8 +27,3 @@ Many well organized notes and cheating papers [here](https://github.com/Wendy-Yi
 * 2025 Fall
   * EE211 Robotic Perception and Intelligence: [lab](https://github.com/Wendy-Ying/Robotic-Perception-and-Intelligence), [project](https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System)
   * CS303 Artificial Intelligence: [lab](https://github.com/Wendy-Ying/Artifical-Intelligence), [project1](https://github.com/Wendy-Ying/Reversed-Reversi), [project2](https://github.com/Wendy-Ying/Adult-Census-Income-Prediction)
- 
-## 💻 **Research Project**:
-* [MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints](https://arxiv.org/abs/2511.17013)
-* [Fully Automated, Highly Compatible Detection Combat Investigated UAV](https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV)
-* [Sign Language Translation System](https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach)
